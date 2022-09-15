@@ -3,7 +3,6 @@ import React, { Component } from 'react'
 export default class App extends Component {
   render() {
     
-    
     let count = 0
     function plus(){
       count++;
