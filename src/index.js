@@ -5,6 +5,7 @@ import App from './App';
 import App_Ex1 from './App_Ex1_Component_Stateless';
 import App_Ex2 from './App_Ex2_props';
 import App_Ex3 from './App_Ex3_Event_Props';
+import App_Ex4 from './App_Ex4_State';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -13,7 +14,8 @@ root.render(
     {/* <App/> */}
     {/* <App_Ex1/> */}
     {/* <App_Ex2/> */}
-    <App_Ex3/>
+    {/* <App_Ex3/> */}
+    <App_Ex4/>
   </React.StrictMode>
 );
 
